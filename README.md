@@ -6,7 +6,7 @@ This project focuses on analyzing political speeches from the Basque parliament 
 
 ## Dataset
 
-The dataset used for this project is the **Basqueparl** dataset, which includes bilingual transcriptions from the Basque Autonomous Community Parliament spanning from December 3, 2012, to February 7, 2020.
+The dataset used for this project is the **Basqueparl** dataset, which includes bilingual transcriptions from the Basque Autonomous Community Parliament spanning from December 3, 2012, to February 7, 2020. The dataset can be downloaded from [Hugging Face Datasets](https://huggingface.co/datasets/HiTZ/basqueparl).
 
 ## Methodology
 
